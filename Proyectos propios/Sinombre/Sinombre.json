@@ -23,6 +23,18 @@
             "Freno delantero": "Disco",
             "Freno trasero": "Disco",
             "Alimentacion": "Inyeccion electronica"
+        },
+        {
+            "Marca":"Yamaha",
+            "Modelo":"Fz 25",
+            "Cilindrada":"250 cc",
+            "Tipo":"Monocilindrico",
+            "Caballaje":"20.9 cv",
+            "Torque":"20 Nm",
+            "Peso en orden de marcha":"146 kg",
+            "Freno delantero":"Disco",
+            "Freno trasero":"Disco",
+            "Alimentacion":"Inyeccion electronica"
         }
     ],
     "Motos 300-400 cc": [
