@@ -1,14 +1,30 @@
-[
-    {
-        "Marca": "Bajaj",
-        "Modelo": "Rouser Ns 200",
-        "Cilindrada":"200 cc",
-        "Caballaje": "24,8 cv",
-        "Freno delantero":"Disco abs",
-        "Freno trasero":"Disco abs"
-    },
-    {
-
-
-    }
-]
+{
+    "Motos 200-250 cc": [
+        {
+            "Marca": "Bajaj",
+            "Modelo": "Rouser Ns 200 Fi",
+            "Cilindrada": "200 cc",
+            "Tipo": "Monocilindrico",
+            "Caballaje": "24.8 cv",
+            "Torque": "18.6 Nm",
+            "Peso en orden de marcha": "155 kg",
+            "Freno delantero": "Disco abs",
+            "Freno trasero": "Disco abs",
+            "Alimentacion": "Inyeccion electronica"
+        }
+    ],
+    "Motos 300-400 cc": [
+        {
+            "Marca": "Benelli",
+            "Modelo": "302s",
+            "Cilindrada": "300 cc",
+            "Tipo": "Bicilindrico",
+            "Caballaje": "38 cv",
+            "Torque": "25.6 Nm",
+            "Peso en orden de marcha": "185 kg",
+            "Freno delantero": " Doble Disco abs",
+            "Freno trasero": "Disco abs",
+            "Alimentacion": "Inyeccion electronica"
+        }
+    ]
+}
