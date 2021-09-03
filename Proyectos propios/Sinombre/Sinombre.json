@@ -11,6 +11,18 @@
             "Freno delantero": "Disco abs",
             "Freno trasero": "Disco abs",
             "Alimentacion": "Inyeccion electronica"
+        },
+        {
+            "Marca": "Honda",
+            "Modelo": "Cb twister 250",
+            "Cilindrada": "250 cc",
+            "Tipo": "Monocilindrico",
+            "Caballaje": "22 cv",
+            "Torque": "22.4 Nm",
+            "Peso en orden de marcha": "148 kg",
+            "Freno delantero": "Disco",
+            "Freno trasero": "Disco",
+            "Alimentacion": "Inyeccion electronica"
         }
     ],
     "Motos 300-400 cc": [
