@@ -35,6 +35,18 @@
             "Freno delantero":"Disco",
             "Freno trasero":"Disco",
             "Alimentacion":"Inyeccion electronica"
+        },
+        {
+            "Marca":"Ktm",
+            "Modelo":"Duke 200 Ng",
+            "Cilindrada":"200 cc",
+            "Tipo":"Monocilindrico",
+            "Caballaje":"26 cv",
+            "Torque":"19.5 Nm",
+            "Peso en orden de marcha":"159 kg",
+            "Freno delantero":"Disco abs",
+            "Freno trasero":"Disco abs",
+            "Alimentacion":"Inyeccion electronica"
         }
     ],
     "Motos 300-400 cc": [
