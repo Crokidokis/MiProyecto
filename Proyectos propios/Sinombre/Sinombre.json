@@ -61,6 +61,18 @@
             "Freno delantero": " Doble Disco abs",
             "Freno trasero": "Disco abs",
             "Alimentacion": "Inyeccion electronica"
+        },
+        {
+            "Marca":"Bajaj",
+            "Modelo":"Dominar 400 Ug",
+            "Cilindrada":"400 cc",
+            "Tipo":"Monocilindrico",
+            "Caballaje":"39.4 cv",
+            "Torque":"35 Nm",
+            "Peso en orden de marcha":"184 kg",
+            "Freno delantero":"Disco abs",
+            "Freno trasero":"Disco abs",
+            "Alimentacion":"Inyeccion electronica"
         }
     ]
 }
