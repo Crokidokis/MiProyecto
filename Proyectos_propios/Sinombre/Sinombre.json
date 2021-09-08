@@ -1,5 +1,5 @@
 {
-    "Motos200250cc": [
+    "Motos200_250cc": [
         {
             "Marca": "Bajaj",
             "Modelo": "Ns 200 Fi",
@@ -25,31 +25,31 @@
             "Alimentacion": "Inyeccion electronica"
         },
         {
-            "Marca":"Yamaha",
-            "Modelo":"Fz 25",
-            "Cilindrada":"250 cc",
-            "Tipo":"Monocilindrico",
-            "Caballaje":"20.9 cv",
-            "Torque":"20 Nm",
-            "Peso en orden de marcha":"146 kg",
-            "Freno delantero":"Disco",
-            "Freno trasero":"Disco",
-            "Alimentacion":"Inyeccion electronica"
+            "Marca": "Yamaha",
+            "Modelo": "Fz 25",
+            "Cilindrada": "250 cc",
+            "Tipo": "Monocilindrico",
+            "Caballaje": "20.9 cv",
+            "Torque": "20 Nm",
+            "Peso en orden de marcha": "146 kg",
+            "Freno delantero": "Disco",
+            "Freno trasero": "Disco",
+            "Alimentacion": "Inyeccion electronica"
         },
         {
-            "Marca":"Ktm",
-            "Modelo":"Duke 200 Ng",
-            "Cilindrada":"200 cc",
-            "Tipo":"Monocilindrico",
-            "Caballaje":"26 cv",
-            "Torque":"19.5 Nm",
-            "Peso en orden de marcha":"159 kg",
-            "Freno delantero":"Disco abs",
-            "Freno trasero":"Disco abs",
-            "Alimentacion":"Inyeccion electronica"
+            "Marca": "Ktm",
+            "Modelo": "Duke 200 Ng",
+            "Cilindrada": "200 cc",
+            "Tipo": "Monocilindrico",
+            "Caballaje": "26 cv",
+            "Torque": "19.5 Nm",
+            "Peso en orden de marcha": "159 kg",
+            "Freno delantero": "Disco abs",
+            "Freno trasero": "Disco abs",
+            "Alimentacion": "Inyeccion electronica"
         }
     ],
-    "Motos300400cc": [
+    "Motos300_400 cc": [
         {
             "Marca": "Benelli",
             "Modelo": "302s",
@@ -63,16 +63,16 @@
             "Alimentacion": "Inyeccion electronica"
         },
         {
-            "Marca":"Bajaj",
-            "Modelo":"Dominar 400 Ug",
-            "Cilindrada":"400 cc",
-            "Tipo":"Monocilindrico",
-            "Caballaje":"39.4 cv",
-            "Torque":"35 Nm",
-            "Peso en orden de marcha":"184 kg",
-            "Freno delantero":"Disco abs",
-            "Freno trasero":"Disco abs",
-            "Alimentacion":"Inyeccion electronica"
+            "Marca": "Bajaj",
+            "Modelo": "Dominar 400 Ug",
+            "Cilindrada": "400 cc",
+            "Tipo": "Monocilindrico",
+            "Caballaje": "39.4 cv",
+            "Torque": "35 Nm",
+            "Peso en orden de marcha": "184 kg",
+            "Freno delantero": "Disco abs",
+            "Freno trasero": "Disco abs",
+            "Alimentacion": "Inyeccion electronica"
         }
     ]
 }
