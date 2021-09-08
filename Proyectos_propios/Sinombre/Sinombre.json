@@ -1,5 +1,5 @@
 {
-    "Motos 200-250 cc": [
+    "Motos_200_250cc": [
         {
             "Marca": "Bajaj",
             "Modelo": "Ns 200 Fi",
@@ -49,7 +49,7 @@
             "Alimentacion":"Inyeccion electronica"
         }
     ],
-    "Motos 300-400 cc": [
+    "Motos300_400cc": [
         {
             "Marca": "Benelli",
             "Modelo": "302s",

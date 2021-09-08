@@ -1,1 +1,0 @@
-var Motos = require('Proyectos_propios/Sinombre/Sinombre.json')
