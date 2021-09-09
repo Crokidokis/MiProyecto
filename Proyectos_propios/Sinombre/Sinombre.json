@@ -7,7 +7,7 @@
             "Tipo": "Monocilindrico",
             "Caballaje": "24.8 cv",
             "Torque": "18.6 Nm",
-            "Peso en orden de marcha": "155 kg",
+            "Peso en orden de marcha": "150 kg",
             "Freno delantero": "Disco abs",
             "Freno trasero": "Disco abs",
             "Alimentacion": "Inyeccion electronica"
@@ -43,7 +43,7 @@
             "Tipo": "Monocilindrico",
             "Caballaje": "26 cv",
             "Torque": "19.5 Nm",
-            "Peso en orden de marcha": "159 kg",
+            "Peso en orden de marcha": "150 kg",
             "Freno delantero": "Disco abs",
             "Freno trasero": "Disco abs",
             "Alimentacion": "Inyeccion electronica"
@@ -73,6 +73,30 @@
             "Freno delantero": "Disco abs",
             "Freno trasero": "Disco abs",
             "Alimentacion": "Inyeccion electronica"
+        },
+        {
+            "Marca":"Ktm",
+            "Modelo":"Duke 390",
+            "Cilindrada":"375 cc",
+            "Tipo":"Monocilindrico",
+            "Caballaje":"44 cv",
+            "Torque":"37 Nm",
+            "Peso en orden de marcha":"150 kg",
+            "Freno delantero":"Disco abs",
+            "Freno trasero":"Disco abs",
+            "Alimentacion":"Inyeccion electronica"
+        },
+        {
+            "Marca":"Yamaha",
+            "Modelo":"Mt 03",
+            "Cilindrada":"321 cc",
+            "Tipo":"Bicilindrico",
+            "Caballaje":"42 cv",
+            "Torque":"29.6 Nm",
+            "Peso en orden de marcha":"168 kg",
+            "Freno delantero":"Disco abs",
+            "Freno trasero":"Disco abs",
+            "Alimentacion":"Inyeccion electronica"
         }
     ]
 }
