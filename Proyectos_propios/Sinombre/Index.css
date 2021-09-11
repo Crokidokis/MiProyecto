@@ -3,13 +3,9 @@ body
     background-color:white;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
-    background-image: url("Fondo1.jpg");
+    background-image: url("Fondo.jpg");
 }
 p
 {
     color: white;
-}
-article
-{
-    color:white;
 }
