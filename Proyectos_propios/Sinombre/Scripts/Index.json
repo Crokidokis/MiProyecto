@@ -7,9 +7,9 @@
             "Tipo": "Monocilindrico",
             "Caballaje": "24.8 cv",
             "Torque": "18.6 Nm",
-            "Peso en orden de marcha": "150 kg",
-            "Freno delantero": "Disco abs",
-            "Freno trasero": "Disco abs",
+            "Peso": "150 kg",
+            "Freno_delantero": "Disco abs",
+            "Freno_trasero": "Disco abs",
             "Alimentacion": "Inyeccion electronica"
         },
         {
@@ -19,9 +19,9 @@
             "Tipo": "Monocilindrico",
             "Caballaje": "22 cv",
             "Torque": "22.4 Nm",
-            "Peso en orden de marcha": "148 kg",
-            "Freno delantero": "Disco",
-            "Freno trasero": "Disco",
+            "Peso": "148 kg",
+            "Freno_delantero": "Disco",
+            "Freno_trasero": "Disco",
             "Alimentacion": "Inyeccion electronica"
         },
         {
@@ -31,9 +31,9 @@
             "Tipo": "Monocilindrico",
             "Caballaje": "20.9 cv",
             "Torque": "20 Nm",
-            "Peso en orden de marcha": "146 kg",
-            "Freno delantero": "Disco",
-            "Freno trasero": "Disco",
+            "Peso": "146 kg",
+            "Freno_delantero": "Disco",
+            "Freno_trasero": "Disco",
             "Alimentacion": "Inyeccion electronica"
         },
         {
@@ -43,9 +43,9 @@
             "Tipo": "Monocilindrico",
             "Caballaje": "26 cv",
             "Torque": "19.5 Nm",
-            "Peso en orden de marcha": "150 kg",
-            "Freno delantero": "Disco abs",
-            "Freno trasero": "Disco abs",
+            "Peso": "150 kg",
+            "Freno_delantero": "Disco abs",
+            "Freno_trasero": "Disco abs",
             "Alimentacion": "Inyeccion electronica"
         }
     ],
@@ -57,9 +57,9 @@
             "Tipo": "Bicilindrico",
             "Caballaje": "38 cv",
             "Torque": "25.6 Nm",
-            "Peso en orden de marcha": "185 kg",
-            "Freno delantero": " Doble Disco abs",
-            "Freno trasero": "Disco abs",
+            "Peso": "185 kg",
+            "Freno_delantero": " Doble Disco abs",
+            "Freno_trasero": "Disco abs",
             "Alimentacion": "Inyeccion electronica"
         },
         {
@@ -69,9 +69,9 @@
             "Tipo": "Monocilindrico",
             "Caballaje": "39.4 cv",
             "Torque": "35 Nm",
-            "Peso en orden de marcha": "184 kg",
-            "Freno delantero": "Disco abs",
-            "Freno trasero": "Disco abs",
+            "Peso": "184 kg",
+            "Freno_delantero": "Disco abs",
+            "Freno_trasero": "Disco abs",
             "Alimentacion": "Inyeccion electronica"
         },
         {
@@ -81,9 +81,9 @@
             "Tipo":"Monocilindrico",
             "Caballaje":"44 cv",
             "Torque":"37 Nm",
-            "Peso en orden de marcha":"150 kg",
-            "Freno delantero":"Disco abs",
-            "Freno trasero":"Disco abs",
+            "Peso":"150 kg",
+            "Freno_delantero":"Disco abs",
+            "Freno_trasero":"Disco abs",
             "Alimentacion":"Inyeccion electronica"
         },
         {
@@ -93,9 +93,9 @@
             "Tipo":"Bicilindrico",
             "Caballaje":"42 cv",
             "Torque":"29.6 Nm",
-            "Peso en orden de marcha":"168 kg",
-            "Freno delantero":"Disco abs",
-            "Freno trasero":"Disco abs",
+            "Peso":"168 kg",
+            "Freno_delantero":"Disco abs",
+            "Freno_trasero":"Disco abs",
             "Alimentacion":"Inyeccion electronica"
         }
     ]
