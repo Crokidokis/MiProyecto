@@ -1,6 +1,18 @@
 html{
-    background-image: url("../Images/Fondo.jpg");
+    background-image: url("../Images/Fondo1.jpg");
 }
 table{
-    color: #ECDDDD;
+    color: white
+}
+*{
+    color: white;
+}
+select{
+    color: black;
+}
+option{
+    color: black;
+}
+input{
+    color: black;
 }
