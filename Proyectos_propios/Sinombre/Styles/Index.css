@@ -1,11 +1,6 @@
-body 
-{
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;
+html{
     background-image: url("../Images/Fondo.jpg");
 }
-
-table,td {
-    border: solid;
-    color:white;
+table{
+    color: #ECDDDD;
 }
