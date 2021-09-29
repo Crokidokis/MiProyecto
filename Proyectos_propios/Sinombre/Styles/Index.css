@@ -1,18 +1,10 @@
 html{
     background-image: url("../Images/Fondo1.jpg");
 }
-table{
+table,*{
     color: white
 }
-*{
-    color: white;
-}
-select{
-    color: black;
-}
-option{
-    color: black;
-}
-input{
+
+select,option,input{
     color: black;
 }
