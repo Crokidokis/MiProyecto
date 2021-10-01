@@ -1,0 +1,102 @@
+{
+    "Motos200_250cc": [
+        {
+            "Marca": "Bajaj",
+            "Modelo": "Ns 200 Fi",
+            "Cilindrada": "200 cc",
+            "Tipo": "Monocilindrico",
+            "Caballaje": "24.8 cv",
+            "Torque": "18.6 Nm",
+            "Peso": "150 kg",
+            "Freno_delantero": "Disco abs",
+            "Freno_trasero": "Disco abs",
+            "Alimentacion": "Inyeccion electronica"
+        },
+        {
+            "Marca": "Honda",
+            "Modelo": "Cb twister 250",
+            "Cilindrada": "250 cc",
+            "Tipo": "Monocilindrico",
+            "Caballaje": "22 cv",
+            "Torque": "22.4 Nm",
+            "Peso": "148 kg",
+            "Freno_delantero": "Disco",
+            "Freno_trasero": "Disco",
+            "Alimentacion": "Inyeccion electronica"
+        },
+        {
+            "Marca": "Yamaha",
+            "Modelo": "Fz 25",
+            "Cilindrada": "250 cc",
+            "Tipo": "Monocilindrico",
+            "Caballaje": "20.9 cv",
+            "Torque": "20 Nm",
+            "Peso": "146 kg",
+            "Freno_delantero": "Disco",
+            "Freno_trasero": "Disco",
+            "Alimentacion": "Inyeccion electronica"
+        },
+        {
+            "Marca": "Ktm",
+            "Modelo": "Duke 200 Ng",
+            "Cilindrada": "200 cc",
+            "Tipo": "Monocilindrico",
+            "Caballaje": "26 cv",
+            "Torque": "19.5 Nm",
+            "Peso": "150 kg",
+            "Freno_delantero": "Disco abs",
+            "Freno_trasero": "Disco abs",
+            "Alimentacion": "Inyeccion electronica"
+        }
+    ],
+    "Motos300_400cc": [
+        {
+            "Marca": "Benelli",
+            "Modelo": "302s",
+            "Cilindrada": "300 cc",
+            "Tipo": "Bicilindrico",
+            "Caballaje": "38 cv",
+            "Torque": "25.6 Nm",
+            "Peso": "185 kg",
+            "Freno_delantero": " Doble Disco abs",
+            "Freno_trasero": "Disco abs",
+            "Alimentacion": "Inyeccion electronica"
+        },
+        {
+            "Marca": "Bajaj",
+            "Modelo": "Dominar 400 Ug",
+            "Cilindrada": "400 cc",
+            "Tipo": "Monocilindrico",
+            "Caballaje": "39.4 cv",
+            "Torque": "35 Nm",
+            "Peso": "184 kg",
+            "Freno_delantero": "Disco abs",
+            "Freno_trasero": "Disco abs",
+            "Alimentacion": "Inyeccion electronica"
+        },
+        {
+            "Marca":"Ktm",
+            "Modelo":"Duke 390",
+            "Cilindrada":"375 cc",
+            "Tipo":"Monocilindrico",
+            "Caballaje":"44 cv",
+            "Torque":"37 Nm",
+            "Peso":"150 kg",
+            "Freno_delantero":"Disco abs",
+            "Freno_trasero":"Disco abs",
+            "Alimentacion":"Inyeccion electronica"
+        },
+        {
+            "Marca":"Yamaha",
+            "Modelo":"Mt 03",
+            "Cilindrada":"321 cc",
+            "Tipo":"Bicilindrico",
+            "Caballaje":"42 cv",
+            "Torque":"29.6 Nm",
+            "Peso":"168 kg",
+            "Freno_delantero":"Disco abs",
+            "Freno_trasero":"Disco abs",
+            "Alimentacion":"Inyeccion electronica"
+        }
+    ]
+}
